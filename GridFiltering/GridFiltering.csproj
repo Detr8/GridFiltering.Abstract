@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Anton Mukhortikh</Authors>
+    <Company />
+    <Product>Abstract Filtering</Product>
+    <PackageProjectUrl>https://github.com/Detr8/GridFiltering.Abstract</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Detr8/GridFiltering.Abstract</RepositoryUrl>
+    <PackageId>Abstract.Filtering</PackageId>
   </PropertyGroup>
 
 </Project>
